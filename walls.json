@@ -1,11 +1,16 @@
-    {
+{
     "Collections":[
         {
             "name":"Funky",
-            "preview_url":"https://raw.githubusercontent.com/ajemvuma/dopewallz/master/1553633545222.png",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/ajemvuma/dopewallz/master/1553633545222.png"
+            "preview_url":"https://raw.githubusercontent.com/ajemvuma/dopewallz/master/1548699469301.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/ajemvuma/dopewallz/master/1548699469301.jpg"
+        },
+        {
+            "name":"Samsung",
+            "preview_url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/Samsung.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/Samsung.png"
         }
-    ],
+    ],   
 
   "Wallpapers":[
 	{
